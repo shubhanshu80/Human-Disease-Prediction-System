@@ -84,6 +84,26 @@ streamlit run app.py
 ```
 5. Open the displayed URL in your browser to use the system.
 
+## Setup Using CMD
+1. open the folder and open cmd using the folder path.
+2. create the virtual environment in cmd.
+- **On Windows:**
+```
+python -m venv .venv
+```
+- **On macOS/Linux:**
+```
+python3 -m venv .venv
+```
+3. Install Project Dependencies
+Make sure your virtual environment is activated, then run the following command in your project directory:
+```
+pip install -r requirements.txt
+```
+4. Run the project
+```
+streamlit run app.py
+```
 ## Future Improvements
 
 - Add more symptoms and diseases to broaden model coverage.
