@@ -9,6 +9,8 @@ This project is a **machine learning-based application** that predicts diseases 
 https://human-disease-prediction-system.streamlit.app/
 ---
 
+<img width="1917" height="977" alt="Image" src="https://github.com/user-attachments/assets/ebeb4a33-a7d7-409d-bc60-4f3a5c06c1af" />
+
 ## Project Features
 
 ### Symptoms Plot Section
