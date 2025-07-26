@@ -54,14 +54,14 @@ https://human-disease-prediction-system.streamlit.app/
 
 1. Ensure Python is installed.
 2. Install dependencies:  
-
+```
 pip install streamlit scikit-learn pandas numpy
-
+```
 3. Download the source code, as well as the training and testing datasets.
 4. Open a terminal, navigate to the project folder, and launch the app:  
-
+```
 streamlit run app.py
-
+```
 5. Open the displayed URL in your browser to use the system.
 
 ## Future Improvements
