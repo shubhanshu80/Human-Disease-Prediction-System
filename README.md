@@ -4,6 +4,11 @@
 
 This project is a **machine learning-based application** that predicts diseases based on a user's selected symptoms. The system employs four different algorithms—**Decision Tree, Random Forest, K-Nearest Neighbour, and Naive Bayes**—to deliver diverse and reliable predictions. The intuitive user interface is now built with **Streamlit**, offering a seamless and interactive web experience. All prediction results and user data are stored in an **SQLite database** for easy reference and future analysis.
 
+## 🌐 Live Demo
+---
+https://shubhanshu80-smart-assistant-for-genai-assistant-mainapp-w7znct.streamlit.app/
+---
+
 ## Features
 
 - **Multiple Machine Learning Algorithms:** Utilizes Decision Tree, Random Forest, K-Nearest Neighbour, and Naive Bayes, providing multi-perspective predictions for enhanced reliability.
