@@ -9,13 +9,33 @@ This project is a **machine learning-based application** that predicts diseases 
 https://human-disease-prediction-system.streamlit.app/
 ---
 
-## Features
+## Project Features
 
+### Symptoms Plot Section
+- Visualizes relationships between various symptoms using Seaborn graphs.
+- Users can select specific symptoms, and the system generates plots to reveal patterns or trends.
+- Generates a concise report summarizing key insights from the symptom data.
+
+### Prediction Report Section
+- Displays a comprehensive summary of machine learning model performances.
+- Shows each model’s accuracy.
+- Plots confusion matrices for all models for visual error analysis.
+- Provides a **View Report** option to display detailed tables including:
+  - Precision
+  - Recall
+  - F1 Score
+  - Support (number of true instances per label)
+- Metrics are broken down by symptoms or classes for in-depth evaluation.
 - **Multiple Machine Learning Algorithms:** Utilizes Decision Tree, Random Forest, K-Nearest Neighbour, and Naive Bayes, providing multi-perspective predictions for enhanced reliability.
 - **Modern Web Interface:** Built with Streamlit, enabling users to interactively select symptoms, view real-time predictions, and enjoy a responsive web-based experience.
 - **Consolidated Predictions:** After running all algorithms, users can click the “Final Prediction” button for a consensus result, increasing confidence in the diagnosis.
 - **Persistent Data Storage:** Patient information and predictions are stored in SQLite, supporting export and further analysis.
 - **Easy-to-Use Workflow:** Streamlined process from symptom selection to result display, suitable for both technical and non-technical users.
+
+
+These features help users understand symptom data patterns and evaluate model outcomes through interactive visualizations and detailed metrics.
+
+
 
 ## Tech Stack
 
