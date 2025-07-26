@@ -6,7 +6,7 @@ This project is a **machine learning-based application** that predicts diseases 
 
 ## 🌐 Live Demo
 ---
-https://shubhanshu80-smart-assistant-for-genai-assistant-mainapp-w7znct.streamlit.app/
+https://human-disease-prediction-system.streamlit.app/
 ---
 
 ## Features
